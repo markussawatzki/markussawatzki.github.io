@@ -17,7 +17,7 @@
   "work": [
     {
       "name": "University of Paderborn, Paderborn, Germany",
-      "position": "Tutor for 'IT Security' Course",
+      "position": "Tutor for \"IT Security\" Course",
       "superior": "Prof. Dr.-Ing. Juraj Somorovsky",
       "url": "https://cs.uni-paderborn.de/en/syssec",
       "startDate": "2021-10-01",
@@ -59,11 +59,11 @@
   ],
   "awards": [
     {
-      "title": "Finalist in the 'Hacking Challenge - Deutschlands Bester Hacker 2022' CTF Competition",
+      "title": "Finalist in the \"Hacking Challenge - Germany's Best Hacker 2022\" CTF Competition",
       "date": "2022-09-11",
       "awarder": "NextGenHackers gGmbH",
       "url": "/assets/pdf/dbh.pdf",
-      "summary": "The Hacking Challenge 'Deutschlands Bester Hacker' seeks the best ethical hackers and emerging talents in the cybersecurity industry."
+      "summary": "\"The Hacking Challenge 'Germany's Best Hacker' seeks the best ethical hackers and emerging talents in the cybersecurity industry.\""
     }
   ],
   "certificates": [
