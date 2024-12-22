@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Markus Sawatzki",
-    "label": "B.Sc. in Computer Science",
+    "label": "Cybersecurity Engineer",
     "image": "",
     "email": "markus.sawatzki@protonmail.com",
     "url": "https://markussawatzki.github.io/",
-    "summary": "Bachelor of Science graduate with expertise in IT security, specializing in penetration testing and reverse engineering.",
+    "summary": "Cybersecurity expert with a Bachelor of Science, specializing in penetration testing and exploit development. Currently working as a Cybersecurity Engineer in the Forensics Department at Digital Data Solution Inc. in Tokyo, Japan.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -15,6 +15,20 @@
     }
   },
   "work": [
+	{
+	  "name": "Digital Data Solution Inc.",
+	  "location": "Roppongi, Minato City, Tokyo (Roppongi Hills)",
+	  "position": "Cybersecurity Engineer",
+	  "url": "https://www.digitaldata-solution.co.jp/",
+	  "startDate": "2024-08-19",
+      "summary": "Penetration testing, vulnerability research, exploit development, and team training on advanced cybersecurity techniques.",
+	  "highlights": [
+         "Perform penetration testing, focusing on low-level exploits (buffer overflows, memory corruption, privilege escalation), while identifying vulnerabilities and detecting indicators of compromise.",
+         "Research emerging attack methodologies, encryption technologies, and reverse engineer malware/proprietary software to identify malicious code and vulnerabilities.",
+        "Educate team members on practical cybersecurity techniques, including password recovery, encryption analysis, and exploitation methodologies.",
+        "Conduct digital forensics investigations to analyze compromised systems, logs, and artifacts for breach impact assessment."
+      ]
+	},
     {
       "name": "University of Paderborn, Paderborn, Germany",
       "position": "Tutor for \"IT Security\" Course",
@@ -32,9 +46,9 @@
       "startDate": "2022-06-01",
       "endDate": "2023-06-30",
       "summary": "Supporting medical engineering department with IT security related tasks.",
-      "highlights": ["Conducted risk analysis for network infrastructure and network-connected medical devices, presenting findings and offering recommendations",
-      "Executed penetration tests on medical devices and web interfaces",
-      "Facilitated responsible disclosure processes for identified vulnerabilities"]
+      "highlights": ["Conducted risk analysis for network infrastructure and network-connected medical devices, presenting findings and offering recommendations.",
+      "Executed penetration tests on medical devices and web interfaces.",
+      "Facilitated responsible disclosure processes for identified vulnerabilities."]
     }
   ],
   "education": [
@@ -113,6 +127,11 @@
   ],
   "languages": [
     {
+      "language": "Japanese",
+      "fluency": "Business level",
+      "icon": ""
+    },
+	{
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
@@ -125,11 +144,6 @@
     {
       "language": "Russian",
       "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Basic conversational level",
       "icon": ""
     }
   ],
